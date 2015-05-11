@@ -1,0 +1,12 @@
+E:\Mizan\02.05.15\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe.config
+E:\Mizan\02.05.15\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe
+E:\Mizan\02.05.15\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.pdb
+E:\Mizan\02.05.15\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csprojResolveAssemblyReference.cache
+E:\Mizan\02.05.15\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.CalculatorSalaryUI.resources
+E:\Mizan\02.05.15\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.Properties.Resources.resources
+E:\Mizan\02.05.15\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csproj.GenerateResource.Cache
+E:\Mizan\02.05.15\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.exe
+E:\Mizan\02.05.15\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.pdb
+C:\Users\Web App Develop .Net\Desktop\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.exe
+C:\Users\Web App Develop .Net\Desktop\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.pdb
